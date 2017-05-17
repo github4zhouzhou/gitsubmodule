@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-
 	"time"
 
 	"dsp.ohko.cn/zhouzhou/vcommon/goroutinepool"
@@ -16,6 +15,7 @@ func main() {
 		fmt.Println("test")
 	})
 
-	time.Sleep(time.Second)
+	fmt.Println("test")
 
+	time.Sleep(time.Second)
 }
