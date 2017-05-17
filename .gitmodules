@@ -1,0 +1,3 @@
+[submodule "src/dsp.ohko.cn/zhouzhou/vcommon"]
+	path = src/dsp.ohko.cn/zhouzhou/vcommon
+	url = https://dsp.ohko.cn/zhouzhou/vcommon.git
